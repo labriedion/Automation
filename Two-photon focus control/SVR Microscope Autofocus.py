@@ -2,7 +2,6 @@
 """
 Created on Tue Apr 25 15:49:06 2017
 
-@author: labeti
 """
 
 #Two-photon autofocus using support vector regression by Étienne Labrie-Dion
